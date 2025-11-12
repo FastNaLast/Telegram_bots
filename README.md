@@ -26,3 +26,5 @@
 *№6 доп задача:извлечение текста с фото
 <тут заметки>
 смотри возьми если что принятия фото половину импортов с папки ii
+>библиотеки<
+pip install pyTelegramBotAPI,pip install requests,beatiful_sou[,pandas
